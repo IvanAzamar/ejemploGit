@@ -23,5 +23,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this, "Exelente Ejemplo", Toast.LENGTH_LONG).show()
         Toast.makeText(this,"Tester",Toast.LENGTH_SHORT);
         //mio
+
+        Toast.makeText(this,"no funcionael Internet! >:(",Toast.LENGTH_SHORT)
     }
 }

@@ -18,7 +18,8 @@ class MainActivity : AppCompatActivity() {
             insets
         }
         Toast.makeText(this,"hola",Toast.LENGTH_SHORT);//hola
+        // Carlos Martínez Pavon modifique el comentario de Bienvenido a Bienvenido user  :)
         Toast.makeText(this,"soy katherine",Toast.LENGTH_SHORT);
-        Toast.makeText(this, "¡Bienvenido a EjemploGit! 🌟", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "¡Bienvenido user a EjemploGit! 🌟", Toast.LENGTH_LONG).show()
     }
 }

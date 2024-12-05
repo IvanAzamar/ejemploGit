@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
 
         Toast.makeText(this,"Tester",Toast.LENGTH_SHORT);
         //mio
+
+        Toast.makeText(this,"no funcionael Internet! >:(",Toast.LENGTH_SHORT)
     }
 }
-//Hola feliz día

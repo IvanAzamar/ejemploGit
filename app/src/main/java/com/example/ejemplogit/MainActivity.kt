@@ -24,3 +24,4 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this,"Tester",Toast.LENGTH_SHORT);
     }
 }
+//Johan lopez

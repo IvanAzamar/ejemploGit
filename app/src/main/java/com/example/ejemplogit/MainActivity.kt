@@ -21,4 +21,4 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this,"soy katherine",Toast.LENGTH_SHORT);
         Toast.makeText(this, "¡Bienvenido a EjemploGit! 🌟", Toast.LENGTH_LONG).show()
     }  //hola profesor
-}
+}//buenas tardes

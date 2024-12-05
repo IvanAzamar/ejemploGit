@@ -20,5 +20,15 @@
             android:layout_height="wrap_content"
             android:text="Salir"></Button>
 
+        <Button
+            android:id="@+id/btn_view_users"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Un boton más"
+            android:textColor="#FFFFFF"
+            android:textSize="17sp"
+            android:backgroundTint="#0D7813"
+            android:layout_marginTop="16dp" />
+
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

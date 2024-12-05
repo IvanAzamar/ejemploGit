@@ -19,6 +19,8 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
+///Emanuel Reynoso Cortez Agregue un log
+                Log.d(TAG, "App context package name: ${appContext.packageName}") // Log agregado
         assertEquals("com.example.ejemplogit", appContext.packageName)
     }//hola que tal
 }

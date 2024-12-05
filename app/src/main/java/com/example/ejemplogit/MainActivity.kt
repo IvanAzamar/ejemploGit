@@ -20,3 +20,4 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this,"hola",Toast.LENGTH_SHORT);//hola
     }
 }
+//Johan Lopez

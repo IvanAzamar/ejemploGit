@@ -83,4 +83,4 @@
       description: 'Computadora portátil ligera con integración perfecta con dispositivos Samsung.',
       price: 1399,
   },
-];
+]

@@ -1,4 +1,4 @@
-export const db = [
+[
   {
       id: 1,
       name: 'MacBook Pro',

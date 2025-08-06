@@ -3,7 +3,7 @@
     "id": 1,
     "name": "MacBook Air II",
     "image": "guitarra_01",
-    "description": "Laptop de alto rendimiento ideal para diseño, programación y edición profesional.",
+    "description": "Laptop de alto rendimiento ideal para diseño, programación y edición profesional MAC.",
     "price": 1999
   },
   {

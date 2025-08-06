@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "MacBook Pro",
+    "name": "MacBook Air",
     "image": "guitarra_01",
     "description": "Laptop de alto rendimiento ideal para diseño, programación y edición profesional.",
     "price": 1999
